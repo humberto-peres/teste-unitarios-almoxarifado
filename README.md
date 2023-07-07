@@ -33,11 +33,10 @@ A classe **Fornecedor** representa um fornecedor de produtos.
 ```
 Fornecedor(int idProvider, string name, string address, string email, string phone)
 ```
-
 - Cria uma nova instância da classe Fornecedor com os valores fornecidos. Lança exceções se os valores fornecidos forem inválidos.
 
 ### :truck: Classe Movimentacao 
-A classe Movimentacao representa uma movimentação de produtos no almoxarifado.
+A classe **Movimentacao** representa uma movimentação de produtos no almoxarifado.
 
 #### `Propriedades:`
 
@@ -56,7 +55,7 @@ Movimentacao(int idMovement, string date, string product, string type, string qu
 - Cria uma nova instância da classe Movimentacao com os valores fornecidos. Lança exceções se os valores fornecidos forem inválidos.
 
 ### :ledger: Classe Produto
-A classe Produto representa um produto no almoxarifado.
+A classe **Produto** representa um produto no almoxarifado.
 
 #### `Propriedades:`
 
@@ -75,7 +74,7 @@ Produto(int idProduct, string nome, int qtdEstoque, string unidMedida, double pr
 - Cria uma nova instância da classe Produto com os valores fornecidos. Lança exceções se os valores fornecidos forem inválidos.
 
 ### :office_worker: Classe Usuario
-A classe Usuario representa um usuário do sistema de almoxarifado.
+A classe **Usuario** representa um usuário do sistema de almoxarifado.
 
 #### `Propriedades:`
 
