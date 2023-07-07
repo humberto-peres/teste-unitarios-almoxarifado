@@ -1,0 +1,206 @@
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\CoverletSourceRootsMapping
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\testhost.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\testhost.exe
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\Almoxarifado.Teste.deps.json
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\Almoxarifado.Teste.runtimeconfig.json
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\Almoxarifado.Teste.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\Almoxarifado.Teste.pdb
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\ExpectedObjects.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\Newtonsoft.Json.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\NuGet.Frameworks.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\xunit.abstractions.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\xunit.assert.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\xunit.core.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\xunit.execution.dotnet.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\Almoxarifado.Classe.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\bin\Debug\net6.0\Almoxarifado.Classe.pdb
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\obj\Debug\net6.0\Almoxarifado.Teste.csproj.AssemblyReference.cache
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\obj\Debug\net6.0\Almoxarifado.Teste.GeneratedMSBuildEditorConfig.editorconfig
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\obj\Debug\net6.0\Almoxarifado.Teste.AssemblyInfoInputs.cache
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\obj\Debug\net6.0\Almoxarifado.Teste.AssemblyInfo.cs
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\obj\Debug\net6.0\Almoxarifado.Teste.csproj.CoreCompileInputs.cache
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\obj\Debug\net6.0\Almoxarifado.Teste.csproj.CopyComplete
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\obj\Debug\net6.0\Almoxarifado.Teste.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\obj\Debug\net6.0\refint\Almoxarifado.Teste.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\obj\Debug\net6.0\Almoxarifado.Teste.pdb
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\obj\Debug\net6.0\Almoxarifado.Teste.genruntimeconfig.cache
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Teste\obj\Debug\net6.0\ref\Almoxarifado.Teste.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\CoverletSourceRootsMapping
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\testhost.exe
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\testhost.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\Almoxarifado.Teste.deps.json
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\Almoxarifado.Teste.runtimeconfig.json
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\Almoxarifado.Teste.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\Almoxarifado.Teste.pdb
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\ExpectedObjects.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\Newtonsoft.Json.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\NuGet.Frameworks.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\xunit.abstractions.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\xunit.assert.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\xunit.core.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\xunit.execution.dotnet.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\Almoxarifado.Classe.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\bin\Debug\net6.0\Almoxarifado.Classe.pdb
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\obj\Debug\net6.0\Almoxarifado.Teste.csproj.AssemblyReference.cache
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\obj\Debug\net6.0\Almoxarifado.Teste.GeneratedMSBuildEditorConfig.editorconfig
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\obj\Debug\net6.0\Almoxarifado.Teste.AssemblyInfoInputs.cache
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\obj\Debug\net6.0\Almoxarifado.Teste.AssemblyInfo.cs
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\obj\Debug\net6.0\Almoxarifado.Teste.csproj.CoreCompileInputs.cache
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\obj\Debug\net6.0\Almoxarifado.Teste.csproj.CopyComplete
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\obj\Debug\net6.0\Almoxarifado.Teste.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\obj\Debug\net6.0\refint\Almoxarifado.Teste.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\obj\Debug\net6.0\Almoxarifado.Teste.pdb
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\obj\Debug\net6.0\Almoxarifado.Teste.genruntimeconfig.cache
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Teste\obj\Debug\net6.0\ref\Almoxarifado.Teste.dll

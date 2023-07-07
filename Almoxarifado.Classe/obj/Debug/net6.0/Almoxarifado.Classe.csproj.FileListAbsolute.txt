@@ -1,0 +1,24 @@
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Classe\bin\Debug\net6.0\Almoxarifado.Classe.deps.json
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Classe\bin\Debug\net6.0\Almoxarifado.Classe.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Classe\bin\Debug\net6.0\Almoxarifado.Classe.pdb
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Classe\obj\Debug\net6.0\Almoxarifado.Classe.csproj.AssemblyReference.cache
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Classe\obj\Debug\net6.0\Almoxarifado.Classe.GeneratedMSBuildEditorConfig.editorconfig
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Classe\obj\Debug\net6.0\Almoxarifado.Classe.AssemblyInfoInputs.cache
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Classe\obj\Debug\net6.0\Almoxarifado.Classe.AssemblyInfo.cs
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Classe\obj\Debug\net6.0\Almoxarifado.Classe.csproj.CoreCompileInputs.cache
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Classe\obj\Debug\net6.0\Almoxarifado.Classe.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Classe\obj\Debug\net6.0\refint\Almoxarifado.Classe.dll
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Classe\obj\Debug\net6.0\Almoxarifado.Classe.pdb
+A:\Faculdade\Teste de Software\Almoxarifado\Almoxarifado.Classe\obj\Debug\net6.0\ref\Almoxarifado.Classe.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Classe\bin\Debug\net6.0\Almoxarifado.Classe.deps.json
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Classe\bin\Debug\net6.0\Almoxarifado.Classe.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Classe\bin\Debug\net6.0\Almoxarifado.Classe.pdb
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Classe\obj\Debug\net6.0\Almoxarifado.Classe.csproj.AssemblyReference.cache
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Classe\obj\Debug\net6.0\Almoxarifado.Classe.GeneratedMSBuildEditorConfig.editorconfig
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Classe\obj\Debug\net6.0\Almoxarifado.Classe.AssemblyInfoInputs.cache
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Classe\obj\Debug\net6.0\Almoxarifado.Classe.AssemblyInfo.cs
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Classe\obj\Debug\net6.0\Almoxarifado.Classe.csproj.CoreCompileInputs.cache
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Classe\obj\Debug\net6.0\Almoxarifado.Classe.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Classe\obj\Debug\net6.0\refint\Almoxarifado.Classe.dll
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Classe\obj\Debug\net6.0\Almoxarifado.Classe.pdb
+A:\Faculdade\Teste de Software\testes\Teste unitarios\Almoxarifado.Classe\obj\Debug\net6.0\ref\Almoxarifado.Classe.dll
