@@ -94,7 +94,7 @@ O projeto também inclui testes unitários para as classes de domínio. Os teste
 
 Os testes garantem que as propriedades das classes de domínio estejam sendo definidas corretamente e que as exceções são lançadas quando os valores fornecidos são inválidos.
 
-### `Integrantes`
+## Integrantes
 Humberto Peres da Rocha Filho<br>
 Israel Schroeder Moreira<br>
 Leandro Pellegrini Fodi<br>
